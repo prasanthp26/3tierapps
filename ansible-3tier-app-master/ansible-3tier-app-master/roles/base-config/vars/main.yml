@@ -1,0 +1,4 @@
+---
+packages:
+  - vim-enhanced
+# vars file for base-config
